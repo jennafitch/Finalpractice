@@ -23,3 +23,5 @@ for metric in performance_metrics:
     print(f"Regression Analysis for {metric}:")
     print(model.summary())
     print("\n")
+
+print ("Go Brewers!")
